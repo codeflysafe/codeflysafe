@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeflysafe
-- 👀 I’m interested in distributed system and DIY
-- 🌱 I’m currently learning golang/java and distributed system
+- 👀 I’m interested in distributed system and computer vision
+- 🌱 I’m currently learning opencv and deep learning
 - 📫 How to reach me ...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codeflysafe)](https://github.com/anuraghazra/github-readme-stats)
